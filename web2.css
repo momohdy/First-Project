@@ -1,0 +1,113 @@
+Html#momo body{
+    background-image: url("jGlzr.png");
+    width: 100%;
+}
+Html#momo .aa{
+    background-color: antiquewhite;
+    width: 99%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+Html#momo pre{
+    font-weight: 800;
+    font-family: Andalus;
+    font-size: larger;
+    float: right;
+}
+Html#momo h3{
+    color: rgb(40, 29, 199);
+    float: right;
+    font-size: larger;
+    font-weight: 400;
+}
+Html#momo span img{
+    width: 40%;
+    height: 500px;
+}
+Html#momo table{
+    width: 80%;
+    border-radius: 10px;
+    border: thin solid black;
+    margin-bottom: 10px;
+}
+Html#momo td,th{
+   padding: 20px;
+   margin: 20px;
+   font-size: larger;
+   font-weight: 1000;
+   font-family: Andalus;
+   
+}
+
+Html#momo ul{
+    list-style-type: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    font-style: italic;
+    width: 99%;
+}
+Html#momo .lm{
+    background-color: rgb(189, 91, 91);
+}
+Html#momo li{
+    float: left;
+}
+Html#momo li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+Html#momo li a:hover{
+    background-color: #a79696;
+}
+Html#momo .ss{
+    color: rgb(39, 99, 163);
+}
+Html#momo .ff{
+    color: rgb(46, 156, 156);
+    font-family: Andalus;
+}
+Html#momo h2{
+    
+    font-family: Andalus;
+    color: rgb(17, 107, 107);
+}
+Html#momo img{
+  width: 40%;
+  border-radius: 10px;
+}
+Html#momo .fotter{
+    background-color: #000;
+    float: right;
+    border:thin solid black;
+    height: 100px;
+}
+Html#momo .foot h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #4841a1;
+ }
+ Html#momo h1{
+    font-family: Andalus;
+    color: rgb(17, 107, 107);
+ }
+
+ Html#momo .foot img{
+     width: 30px;
+     margin-right: 10px;
+ }
+Html#momo .foot{
+     background-color: #000;
+     border-radius: 10px;
+   
+     width: 100%;
+  
+ }
+Html#momo audio,video{
+     border-radius: 10px;
+ }
+ 
